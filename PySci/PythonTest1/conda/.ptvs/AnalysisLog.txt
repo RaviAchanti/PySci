@@ -1,0 +1,644 @@
+﻿
+2016-12-07T13:11:16: Start analysis
+2016-12-07T13:11:16: [WARNING] Library was set explicitly - skipping path detection
+2016-12-07T13:11:16: IncludeModulesFromModulePath = win32com
+2016-12-07T13:11:17: Deleting 0 files
+2016-12-07T13:11:18: Scraping builtin modules
+2016-12-07T13:11:18: Command: "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2016-12-07T13:11:22: Output
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2016-12-07T13:11:22: Scraped builtin modules
+2016-12-07T13:11:22: astropy.CallDepth = 0
+2016-12-07T13:11:22: matplotlib.CallDepth = 3
+2016-12-07T13:11:22: pandas.CallDepth = 0
+2016-12-07T13:11:22: sympy.CallDepth = 0
+2016-12-07T13:11:22: Start group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages" with 1 files
+2016-12-07T13:11:23: Parsing "easy_install" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\easy_install.py")
+2016-12-07T13:11:23: Parsing complete
+2016-12-07T13:11:23: Analyzing "easy_install"
+2016-12-07T13:11:23: Starting analysis of 1 modules
+2016-12-07T13:11:23: Analysis complete
+2016-12-07T13:11:23: Saving group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages"
+2016-12-07T13:11:26: End of group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages"
+2016-12-07T13:11:26: Start group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip" with 233 files
+2016-12-07T13:11:26: Parsing "pip.basecommand" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\basecommand.py")
+2016-12-07T13:11:26: Parsing "pip.baseparser" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\baseparser.py")
+2016-12-07T13:11:26: Parsing "pip.cmdoptions" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\cmdoptions.py")
+2016-12-07T13:11:26: Parsing "pip.download" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\download.py")
+2016-12-07T13:11:26: Parsing "pip.exceptions" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\exceptions.py")
+2016-12-07T13:11:26: Parsing "pip.index" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\index.py")
+2016-12-07T13:11:26: Parsing "pip.locations" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\locations.py")
+2016-12-07T13:11:26: Parsing "pip.pep425tags" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\pep425tags.py")
+2016-12-07T13:11:26: Parsing "pip.status_codes" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\status_codes.py")
+2016-12-07T13:11:26: Parsing "pip.wheel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\wheel.py")
+2016-12-07T13:11:27: Parsing "pip" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.__main__" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\__main__.py")
+2016-12-07T13:11:27: Parsing "pip.commands.completion" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\completion.py")
+2016-12-07T13:11:27: Parsing "pip.commands.download" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\download.py")
+2016-12-07T13:11:27: Parsing "pip.commands.freeze" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\freeze.py")
+2016-12-07T13:11:27: Parsing "pip.commands.hash" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\hash.py")
+2016-12-07T13:11:27: Parsing "pip.commands.help" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\help.py")
+2016-12-07T13:11:27: Parsing "pip.commands.install" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\install.py")
+2016-12-07T13:11:27: Parsing "pip.commands.list" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\list.py")
+2016-12-07T13:11:27: Parsing "pip.commands.search" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\search.py")
+2016-12-07T13:11:27: Parsing "pip.commands.show" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\show.py")
+2016-12-07T13:11:27: Parsing "pip.commands.uninstall" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\uninstall.py")
+2016-12-07T13:11:27: Parsing "pip.commands.wheel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\wheel.py")
+2016-12-07T13:11:27: Parsing "pip.commands" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\commands\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.compat.dictconfig" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\compat\dictconfig.py")
+2016-12-07T13:11:27: Parsing "pip.compat.ordereddict" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\compat\ordereddict.py")
+2016-12-07T13:11:27: Parsing "pip.compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\compat\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.models.index" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\models\index.py")
+2016-12-07T13:11:27: Parsing "pip.models" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\models\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.operations.freeze" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\operations\freeze.py")
+2016-12-07T13:11:27: Parsing "pip.operations" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\operations\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.req.req_file" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\req\req_file.py")
+2016-12-07T13:11:27: Parsing "pip.req.req_install" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\req\req_install.py")
+2016-12-07T13:11:27: Parsing "pip.req.req_set" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\req\req_set.py")
+2016-12-07T13:11:27: Parsing "pip.req.req_uninstall" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\req\req_uninstall.py")
+2016-12-07T13:11:27: Parsing "pip.req" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\req\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.utils.appdirs" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\appdirs.py")
+2016-12-07T13:11:27: Parsing "pip.utils.build" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\build.py")
+2016-12-07T13:11:27: Parsing "pip.utils.deprecation" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\deprecation.py")
+2016-12-07T13:11:27: Parsing "pip.utils.encoding" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\encoding.py")
+2016-12-07T13:11:27: Parsing "pip.utils.filesystem" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\filesystem.py")
+2016-12-07T13:11:27: Parsing "pip.utils.hashes" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\hashes.py")
+2016-12-07T13:11:27: Parsing "pip.utils.logging" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\logging.py")
+2016-12-07T13:11:27: Parsing "pip.utils.outdated" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\outdated.py")
+2016-12-07T13:11:27: Parsing "pip.utils.setuptools_build" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\setuptools_build.py")
+2016-12-07T13:11:27: Parsing "pip.utils.ui" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\ui.py")
+2016-12-07T13:11:27: Parsing "pip.utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\utils\__init__.py")
+2016-12-07T13:11:27: Parsing "pip.vcs.bazaar" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\vcs\bazaar.py")
+2016-12-07T13:11:27: Parsing "pip.vcs.git" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\vcs\git.py")
+2016-12-07T13:11:27: Parsing "pip.vcs.mercurial" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\vcs\mercurial.py")
+2016-12-07T13:11:27: Parsing "pip.vcs.subversion" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\vcs\subversion.py")
+2016-12-07T13:11:27: Parsing "pip.vcs" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\vcs\__init__.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.ipaddress" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\ipaddress.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.pyparsing" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\pyparsing.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.retrying" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\retrying.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.six" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\six.py")
+2016-12-07T13:11:27: Parsing "pip._vendor" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\__init__.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.adapter" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.cache" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.controller" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.filewrapper" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.heuristics" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.serialize" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.wrapper" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol._cmd" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.cachecontrol.caches" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.colorama.ansi" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.colorama.initialise" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.colorama.win32" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2016-12-07T13:11:27: Parsing "pip._vendor.colorama.winterm" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.colorama" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.database" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\database.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.index" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\index.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.locators" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.manifest" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.markers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.metadata" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.resources" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.scripts" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.util" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\util.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.version" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\version.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib.wheel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.distlib._backport" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.constants" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.ihatexml" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.inputstream" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.sanitizer" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.tokenizer" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters._base" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.filters" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treebuilders._base" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers._base" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.trie.datrie" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.trie.py" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.trie._base" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.html5lib.trie" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.lockfile.linklockfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.lockfile.mkdirlockfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2016-12-07T13:11:28: Parsing "pip._vendor.lockfile.pidlockfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.lockfile.sqlitelockfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.lockfile.symlinklockfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.lockfile" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging.markers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging.requirements" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging.specifiers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging.utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging.version" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\version.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging._compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging._structures" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging.__about__" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.packaging" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.pkg_resources" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.progress.bar" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\progress\bar.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.progress.counter" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\progress\counter.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.progress.helpers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.progress.spinner" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.progress" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.adapters" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.api" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\api.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.auth" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\auth.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.certs" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\certs.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\compat.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.cookies" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.exceptions" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.hooks" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.models" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\models.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.sessions" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.status_codes" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.structures" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\structures.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\utils.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.constants" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.escprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.escsm" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2016-12-07T13:11:29: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.chardet" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.connection" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.fields" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.request" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.response" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3._collections" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.packages" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2016-12-07T13:11:30: Parsing "pip._vendor.requests.packages.urllib3.util" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2016-12-07T13:11:30: Parsing "pip._vendor._markerlib.markers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2016-12-07T13:11:30: Parsing "pip._vendor._markerlib" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2016-12-07T13:11:30: Parsing complete
+2016-12-07T13:11:30: Analyzing "pip.basecommand"
+2016-12-07T13:11:30: Analyzing "pip.baseparser"
+2016-12-07T13:11:30: Analyzing "pip.cmdoptions"
+2016-12-07T13:11:30: Analyzing "pip.download"
+2016-12-07T13:11:30: Analyzing "pip.exceptions"
+2016-12-07T13:11:30: Analyzing "pip.index"
+2016-12-07T13:11:30: Analyzing "pip.locations"
+2016-12-07T13:11:30: Analyzing "pip.pep425tags"
+2016-12-07T13:11:30: Analyzing "pip.status_codes"
+2016-12-07T13:11:30: Analyzing "pip.wheel"
+2016-12-07T13:11:30: Analyzing "pip"
+2016-12-07T13:11:30: Analyzing "pip.__main__"
+2016-12-07T13:11:30: Analyzing "pip.commands.completion"
+2016-12-07T13:11:30: Analyzing "pip.commands.download"
+2016-12-07T13:11:30: Analyzing "pip.commands.freeze"
+2016-12-07T13:11:30: Analyzing "pip.commands.hash"
+2016-12-07T13:11:30: Analyzing "pip.commands.help"
+2016-12-07T13:11:30: Analyzing "pip.commands.install"
+2016-12-07T13:11:30: Analyzing "pip.commands.list"
+2016-12-07T13:11:30: Analyzing "pip.commands.search"
+2016-12-07T13:11:30: Analyzing "pip.commands.show"
+2016-12-07T13:11:30: Analyzing "pip.commands.uninstall"
+2016-12-07T13:11:30: Analyzing "pip.commands.wheel"
+2016-12-07T13:11:30: Analyzing "pip.commands"
+2016-12-07T13:11:30: Analyzing "pip.compat.dictconfig"
+2016-12-07T13:11:30: Analyzing "pip.compat.ordereddict"
+2016-12-07T13:11:30: Analyzing "pip.compat"
+2016-12-07T13:11:30: Analyzing "pip.models.index"
+2016-12-07T13:11:30: Analyzing "pip.models"
+2016-12-07T13:11:30: Analyzing "pip.operations.freeze"
+2016-12-07T13:11:30: Analyzing "pip.operations"
+2016-12-07T13:11:30: Analyzing "pip.req.req_file"
+2016-12-07T13:11:30: Analyzing "pip.req.req_install"
+2016-12-07T13:11:30: Analyzing "pip.req.req_set"
+2016-12-07T13:11:30: Analyzing "pip.req.req_uninstall"
+2016-12-07T13:11:30: Analyzing "pip.req"
+2016-12-07T13:11:30: Analyzing "pip.utils.appdirs"
+2016-12-07T13:11:30: Analyzing "pip.utils.build"
+2016-12-07T13:11:30: Analyzing "pip.utils.deprecation"
+2016-12-07T13:11:30: Analyzing "pip.utils.encoding"
+2016-12-07T13:11:30: Analyzing "pip.utils.filesystem"
+2016-12-07T13:11:30: Analyzing "pip.utils.hashes"
+2016-12-07T13:11:30: Analyzing "pip.utils.logging"
+2016-12-07T13:11:30: Analyzing "pip.utils.outdated"
+2016-12-07T13:11:30: Analyzing "pip.utils.setuptools_build"
+2016-12-07T13:11:30: Analyzing "pip.utils.ui"
+2016-12-07T13:11:30: Analyzing "pip.utils"
+2016-12-07T13:11:30: Analyzing "pip.vcs.bazaar"
+2016-12-07T13:11:30: Analyzing "pip.vcs.git"
+2016-12-07T13:11:30: Analyzing "pip.vcs.mercurial"
+2016-12-07T13:11:30: Analyzing "pip.vcs.subversion"
+2016-12-07T13:11:30: Analyzing "pip.vcs"
+2016-12-07T13:11:30: Analyzing "pip._vendor.ipaddress"
+2016-12-07T13:11:30: Analyzing "pip._vendor.pyparsing"
+2016-12-07T13:11:30: Analyzing "pip._vendor.retrying"
+2016-12-07T13:11:30: Analyzing "pip._vendor.six"
+2016-12-07T13:11:30: Analyzing "pip._vendor"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.adapter"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.cache"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.compat"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.controller"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.heuristics"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.serialize"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.wrapper"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol._cmd"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2016-12-07T13:11:30: Analyzing "pip._vendor.cachecontrol.caches"
+2016-12-07T13:11:30: Analyzing "pip._vendor.colorama.ansi"
+2016-12-07T13:11:30: Analyzing "pip._vendor.colorama.ansitowin32"
+2016-12-07T13:11:30: Analyzing "pip._vendor.colorama.initialise"
+2016-12-07T13:11:30: Analyzing "pip._vendor.colorama.win32"
+2016-12-07T13:11:30: Analyzing "pip._vendor.colorama.winterm"
+2016-12-07T13:11:30: Analyzing "pip._vendor.colorama"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.compat"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.database"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.index"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.locators"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.manifest"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.markers"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.metadata"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.resources"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.scripts"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.util"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.version"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib.wheel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib._backport.misc"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib._backport.shutil"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib._backport.tarfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.distlib._backport"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.constants"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.html5parser"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.ihatexml"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.inputstream"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.sanitizer"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.tokenizer"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.utils"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters.lint"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters._base"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.filters"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.serializer"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treeadapters"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treebuilders"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.treewalkers"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.trie.datrie"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.trie.py"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.trie._base"
+2016-12-07T13:11:30: Analyzing "pip._vendor.html5lib.trie"
+2016-12-07T13:11:30: Analyzing "pip._vendor.lockfile.linklockfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.lockfile.pidlockfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.lockfile"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging.markers"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging.requirements"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging.specifiers"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging.utils"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging.version"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging._compat"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging._structures"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging.__about__"
+2016-12-07T13:11:30: Analyzing "pip._vendor.packaging"
+2016-12-07T13:11:30: Analyzing "pip._vendor.pkg_resources"
+2016-12-07T13:11:30: Analyzing "pip._vendor.progress.bar"
+2016-12-07T13:11:30: Analyzing "pip._vendor.progress.counter"
+2016-12-07T13:11:30: Analyzing "pip._vendor.progress.helpers"
+2016-12-07T13:11:30: Analyzing "pip._vendor.progress.spinner"
+2016-12-07T13:11:30: Analyzing "pip._vendor.progress"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.adapters"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.api"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.auth"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.certs"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.compat"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.cookies"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.exceptions"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.hooks"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.models"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.sessions"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.status_codes"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.structures"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.utils"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.chardet"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2016-12-07T13:11:30: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2016-12-07T13:11:30: Analyzing "pip._vendor._markerlib.markers"
+2016-12-07T13:11:30: Analyzing "pip._vendor._markerlib"
+2016-12-07T13:11:30: Starting analysis of 233 modules
+2016-12-07T13:11:47: Analysis complete
+2016-12-07T13:11:47: Saving group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip"
+2016-12-07T13:11:54: End of group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pip"
+2016-12-07T13:11:54: Start group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources" with 14 files
+2016-12-07T13:11:54: Parsing "pkg_resources" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\__init__.py")
+2016-12-07T13:11:54: Parsing "pkg_resources.extern" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\extern\__init__.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.pyparsing" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.six" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\six.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging.markers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging.requirements" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging.specifiers" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging.utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging.version" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging._compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging._structures" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging.__about__" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2016-12-07T13:11:54: Parsing "pkg_resources._vendor.packaging" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2016-12-07T13:11:54: Parsing complete
+2016-12-07T13:11:54: Analyzing "pkg_resources"
+2016-12-07T13:11:54: Analyzing "pkg_resources.extern"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.pyparsing"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.six"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging.markers"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging.requirements"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging.utils"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging.version"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging._compat"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging._structures"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging.__about__"
+2016-12-07T13:11:54: Analyzing "pkg_resources._vendor.packaging"
+2016-12-07T13:11:54: Starting analysis of 14 modules
+2016-12-07T13:12:00: Analysis complete
+2016-12-07T13:12:00: Saving group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources"
+2016-12-07T13:12:00: End of group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\pkg_resources"
+2016-12-07T13:12:00: Start group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools" with 41 files
+2016-12-07T13:12:00: Parsing "setuptools.archive_util" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\archive_util.py")
+2016-12-07T13:12:00: Parsing "setuptools.depends" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\depends.py")
+2016-12-07T13:12:00: Parsing "setuptools.dist" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\dist.py")
+2016-12-07T13:12:00: Parsing "setuptools.extension" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\extension.py")
+2016-12-07T13:12:00: Parsing "setuptools.launch" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\launch.py")
+2016-12-07T13:12:00: Parsing "setuptools.lib2to3_ex" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\lib2to3_ex.py")
+2016-12-07T13:12:00: Parsing "setuptools.msvc9_support" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\msvc9_support.py")
+2016-12-07T13:12:00: Parsing "setuptools.package_index" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\package_index.py")
+2016-12-07T13:12:00: Parsing "setuptools.py26compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\py26compat.py")
+2016-12-07T13:12:00: Parsing "setuptools.py27compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\py27compat.py")
+2016-12-07T13:12:00: Parsing "setuptools.py31compat" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\py31compat.py")
+2016-12-07T13:12:00: Parsing "setuptools.sandbox" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\sandbox.py")
+2016-12-07T13:12:00: Parsing "setuptools.ssl_support" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\ssl_support.py")
+2016-12-07T13:12:00: Parsing "setuptools.unicode_utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\unicode_utils.py")
+2016-12-07T13:12:00: Parsing "setuptools.utils" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\utils.py")
+2016-12-07T13:12:00: Parsing "setuptools.version" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\version.py")
+2016-12-07T13:12:00: Parsing "setuptools.windows_support" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\windows_support.py")
+2016-12-07T13:12:00: Parsing "setuptools" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\__init__.py")
+2016-12-07T13:12:00: Parsing "setuptools.command.alias" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\alias.py")
+2016-12-07T13:12:00: Parsing "setuptools.command.bdist_egg" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\bdist_egg.py")
+2016-12-07T13:12:00: Parsing "setuptools.command.bdist_rpm" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2016-12-07T13:12:00: Parsing "setuptools.command.bdist_wininst" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2016-12-07T13:12:00: Parsing "setuptools.command.build_ext" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\build_ext.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.build_py" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\build_py.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.develop" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\develop.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.easy_install" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\easy_install.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.egg_info" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\egg_info.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.install" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\install.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.install_egg_info" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\install_egg_info.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.install_lib" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\install_lib.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.install_scripts" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\install_scripts.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.register" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\register.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.rotate" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\rotate.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.saveopts" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\saveopts.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.sdist" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\sdist.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.setopt" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\setopt.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.test" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\test.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.upload" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\upload.py")
+2016-12-07T13:12:01: Parsing "setuptools.command.upload_docs" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\upload_docs.py")
+2016-12-07T13:12:01: Parsing "setuptools.command" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\command\__init__.py")
+2016-12-07T13:12:01: Parsing "setuptools.extern" ("C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools\extern\__init__.py")
+2016-12-07T13:12:01: Parsing complete
+2016-12-07T13:12:01: Analyzing "setuptools.archive_util"
+2016-12-07T13:12:01: Analyzing "setuptools.depends"
+2016-12-07T13:12:01: Analyzing "setuptools.dist"
+2016-12-07T13:12:01: Analyzing "setuptools.extension"
+2016-12-07T13:12:01: Analyzing "setuptools.launch"
+2016-12-07T13:12:01: Analyzing "setuptools.lib2to3_ex"
+2016-12-07T13:12:01: Analyzing "setuptools.msvc9_support"
+2016-12-07T13:12:01: Analyzing "setuptools.package_index"
+2016-12-07T13:12:01: Analyzing "setuptools.py26compat"
+2016-12-07T13:12:01: Analyzing "setuptools.py27compat"
+2016-12-07T13:12:01: Analyzing "setuptools.py31compat"
+2016-12-07T13:12:01: Analyzing "setuptools.sandbox"
+2016-12-07T13:12:01: Analyzing "setuptools.ssl_support"
+2016-12-07T13:12:01: Analyzing "setuptools.unicode_utils"
+2016-12-07T13:12:01: Analyzing "setuptools.utils"
+2016-12-07T13:12:01: Analyzing "setuptools.version"
+2016-12-07T13:12:01: Analyzing "setuptools.windows_support"
+2016-12-07T13:12:01: Analyzing "setuptools"
+2016-12-07T13:12:01: Analyzing "setuptools.command.alias"
+2016-12-07T13:12:01: Analyzing "setuptools.command.bdist_egg"
+2016-12-07T13:12:01: Analyzing "setuptools.command.bdist_rpm"
+2016-12-07T13:12:01: Analyzing "setuptools.command.bdist_wininst"
+2016-12-07T13:12:01: Analyzing "setuptools.command.build_ext"
+2016-12-07T13:12:01: Analyzing "setuptools.command.build_py"
+2016-12-07T13:12:01: Analyzing "setuptools.command.develop"
+2016-12-07T13:12:01: Analyzing "setuptools.command.easy_install"
+2016-12-07T13:12:01: Analyzing "setuptools.command.egg_info"
+2016-12-07T13:12:01: Analyzing "setuptools.command.install"
+2016-12-07T13:12:01: Analyzing "setuptools.command.install_egg_info"
+2016-12-07T13:12:01: Analyzing "setuptools.command.install_lib"
+2016-12-07T13:12:01: Analyzing "setuptools.command.install_scripts"
+2016-12-07T13:12:01: Analyzing "setuptools.command.register"
+2016-12-07T13:12:01: Analyzing "setuptools.command.rotate"
+2016-12-07T13:12:01: Analyzing "setuptools.command.saveopts"
+2016-12-07T13:12:01: Analyzing "setuptools.command.sdist"
+2016-12-07T13:12:01: Analyzing "setuptools.command.setopt"
+2016-12-07T13:12:01: Analyzing "setuptools.command.test"
+2016-12-07T13:12:01: Analyzing "setuptools.command.upload"
+2016-12-07T13:12:01: Analyzing "setuptools.command.upload_docs"
+2016-12-07T13:12:01: Analyzing "setuptools.command"
+2016-12-07T13:12:01: Analyzing "setuptools.extern"
+2016-12-07T13:12:01: Starting analysis of 41 modules
+2016-12-07T13:12:04: Analysis complete
+2016-12-07T13:12:04: Saving group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools"
+2016-12-07T13:12:05: End of group "C:\Users\rachanti\Documents\Visual Studio 2013\Projects\PythonTest1\PythonTest1\conda\Lib\site-packages\setuptools"
+2016-12-07T13:12:06: Deleting 0 files
